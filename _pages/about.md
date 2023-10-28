@@ -15,8 +15,8 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science - Artificial Intelligence @ **University of Pisa**, 2021- 2023
-* B.S. in Computer Science, **University of Salerno** @ 2018 - 2021
-* Apple Foundation Program, **University of Salerno** @ 2020 - 2021
+* B.S. in Computer Science @ **University of Salerno**, 2018 - 2021
+* Apple Foundation Program @ **University of Salerno**, 2020 - 2021
 
 <br>
 
