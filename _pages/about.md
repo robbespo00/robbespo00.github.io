@@ -38,6 +38,7 @@ Teaching Experience
 
 Work Experience
 ======
+* Software Engineer @ **Leonardo**, 2023 - Present
 * Software Developer @ **Computer City**, 2017 - 2019
   * Successfully utilized CMS framework (e.g., Wordpress and Woocommerce) to develop and maintain a robust e-commerce website
 
