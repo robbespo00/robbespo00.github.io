@@ -39,15 +39,13 @@ Teaching Experience
 Education
 ======
 * M.S. in Computer Science - Artificial Intelligence @ **University of Pisa**, 2021- 2023
-  * Grade: 110 with honors Grade: 110 with honors 
+  * Grade: 110 with honors (GPA: 29.64 / 30)
   * Thesis: Product Quantization for Similarity Search
-  * GPA: 29.64 / 30
   * Relevant skills: Information Retrieval, Algorithm Engineering, Parallel and Distributed Systems, Machine Learning, Deep Learning, Reinforcement Learning, Natural Language Processing, Generative AI.
 * B.S. in Computer Science @ **University of Salerno**, 2018 - 2021
-  * Grade: 110 with honorsGrade: 110 with honors
+  * Grade: 110 with honors (GPA: 29.62 / 30)
   * Thesis: Analysis and Development of Artificial Intelligence techniques to enforce local authorities through Generative Adversarial Networks against criminal activities
-  * GPA: 29.62 / 30
-   Relevant skills: Programming and Data Structures, Algorithms, Distributed Programming, Graph Theory, Operations Research, Theoretical Computer Science, Object Oriented Programming, Artificial Intelligence.
+  * Relevant skills: Programming and Data Structures, Algorithms, Distributed Programming, Graph Theory, Operations Research, Theoretical Computer Science, Object Oriented Programming, Artificial Intelligence.
 * Apple Foundation Program @ **University of Salerno**, 2020 - 2021
 
 <br>
